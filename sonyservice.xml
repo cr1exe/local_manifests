@@ -1,23 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <project path="device/sony/huashan" name="CyanogenMod/android_device_sony_huashan" remote="github" revision="cm-11.0" /> 
-  <project path="device/sony/taoshan" name="uberlaggydarwin/android_device_sony_taoshan" remote="github" revision="master" /> 
-  <project path="kernel/sony/taoshan" name="uberlaggydarwin/taoshan-kernel" remote="github" revision="cm-11.0" /> 
  <project path="device/sony/qcom-common" name="CyanogenMod/android_device_sony_qcom-common" remote="github" revision="cm-11.0" />
  <project path="device/sony/common" name="CyanogenMod/android_device_sony_common" remote="github" revision="cm-11.0" />
  <project path="hardware/sony/DASH" name="CyanogenMod/android_hardware_sony_DASH" remote="github" revision="cm-11.0" />
  <project path="kernel/sony/msm8960t" name="CyanogenMod/android_kernel_sony_msm8960t" remote="github" revision="cm-11.0" />
- <project path="vendor/sony" name="uberlaggydarwin/proprietary_vendor_sony" remote="github" revision="cm-11.0" />
- <project path="kernel/sony/apq8064" name="CyanogenMod/android_kernel_sony_apq8064" remote="github" revision="cm-11.0" />
- <project path="device/sony/fusion3-common" name="CyanogenMod/ndroid_device_sony_fusion3-common" remote="github" revision="cm-11.0" />
- <project path="device/sony/yuga" name="CyanogenMod/android_device_sony_yuga" remote="github" revision="cm-11.0" />
- <project path="device/sony/dogo" name="CyanogenMod/android_device_sony_dogo" remote="github" revision="cm-11.0" />
- <project path="device/sony/odin" name="CyanogenMod/android_device_sony_odin" remote="github" revision="cm-11.0" />
- <project name="CyanogenMod/android_device_sony_mint" path="device/sony/mint" remote="github" />
- <project name="CyanogenMod/android_device_sony_blue-common" path="device/sony/blue-common" remote="github" />
- <project name="CyanogenMod/android_kernel_sony_msm8x60" path="kernel/sony/msm8x60" remote="github" />
- <project name="BuzzBumbleBee/android_packages_apps_SonyOpenIR" path="packages/appps/OpenIR" remote="github" revision="cm-10.1" />
- <project name="CyanogenMod/android_device_sony_pollux_windy" path="device/sony/pollux_windy" remote="github" revision="cm-10.2" /
- <project name="CyanogenMod/android_device_sony_pollux-common" path="device/sony/pollux-common" remote="github" revision="cm-10.2"
+ <project path="vendor/sony" name="TheMuppets/proprietary_vendor_sony" remote="github" revision="cm-11.0" />
 
 </manifest>
