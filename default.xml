@@ -20,7 +20,7 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
-  <project path="android" name="cr1exe/local_manifests" revision="XperiaL"/>
+  <project path="android" name="cr1exe/local_manifests"/>
  <project path="device/sony/taoshan" name="uberlaggydarwin/android_device_sony_taoshan" remote="github" revision="cm-11.0" /> 
  <project path="kernel/sony/taoshan" name="uberlaggydarwin/android_kernel_sony_taoshan" remote="github" revision="cm-11.0" /> 
  <project path="device/sony/qcom-common" name="CyanogenMod/android_device_sony_qcom-common" remote="github" revision="cm-11.0" />
